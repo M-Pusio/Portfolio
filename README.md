@@ -40,7 +40,7 @@ W trakcie:
 ## Polecane blogi i strony tematyczne
 
 ## Moje przypadki testowe
-- [Przypadki testowe - panel logowania i rejestracji serwisu OLX] (https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
+- [Przypadki testowe - panel logowania i rejestracji serwisu OLX](https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
 
 ## Moje raporty defektów
 
