@@ -39,6 +39,10 @@ W trakcie:
 - [Women in Technology Trójmiasto](https://www.facebook.com/groups/WiTGdansk/)
 
 ## Polecane blogi i strony tematyczne
+- [testerzy.pl](https://testerzy.pl/)
+- [testelka.pl](https://testelka.pl/)
+- [toniebug.pl](https://www.toniebug.pl/)
+- [testerka.pl](http://testerka.pl/)
 
 ## Moje przypadki testowe
 - [Przypadki testowe - panel logowania i rejestracji serwisu OLX](https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
