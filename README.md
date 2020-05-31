@@ -20,15 +20,15 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 
 ## Książki techniczne
 Przeczytane:
-- R. Smilgin, Zawód tester. Od decyzji do zdobycia doświadczenia
-- K. Zmitrowicz, Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania
-- R. Pawlak, Testowanie oprogramowania. Podręcznik dla początkujących
-- B. Forta, SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie
-- L. Rockoff, Język SQL. Przyjazny podręcznik.
+- [R. Smilgin, Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
+- [K. Zmitrowicz, Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania](https://ksiegarnia.pwn.pl/Tester-oprogramowania-Przygotowanie-do-egzaminu-z-testowania-oprogramowania,84913544,p.html)
+- [R. Pawlak, Testowanie oprogramowania. Podręcznik dla początkujących](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
+- [B. Forta, SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie](https://helion.pl/ksiazki/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie-wydanie-iv-ben-forta,sqldko.htm#format/e)
+- [L. Rockoff, Język SQL. Przyjazny podręcznik.](https://helion.pl/ksiazki/jezyk-sql-przyjazny-podrecznik-wydanie-ii-larry-rockoff,jsqlp2.htm#format/d)
 
 W trakcie:
-- D. Mendrala, M. Szeliga, Praktyczny kurs SQL
-- K. Żmuda, SQL. Jak osiągnąć mistrzostwo w konstruowaniu zapytań
+- [D. Mendrala, M. Szeliga, Praktyczny kurs SQL](https://helion.pl/ksiazki/praktyczny-kurs-sql-wydanie-iii-danuta-mendrala-marcin-szeliga,pksql3.htm#format/d)
+- [K. Żmuda, SQL. Jak osiągnąć mistrzostwo w konstruowaniu zapytań](https://helion.pl/ksiazki/sql-jak-osiagnac-mistrzostwo-w-konstruowaniu-zapytan-katarzyna-zmuda,sqljak.htm#format/e)
 
 ## Grupy testerskie na Facebooku
 - [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
@@ -42,6 +42,7 @@ W trakcie:
 - [testerzy.pl](https://testerzy.pl/)
 - [testelka.pl](https://testelka.pl/)
 - [toniebug.pl](https://www.toniebug.pl/)
+- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 - [testerka.pl](http://testerka.pl/)
 
 ## Moje przypadki testowe
