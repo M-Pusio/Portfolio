@@ -22,9 +22,11 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 
 ## Literatura techniczna
 Przeczytana:
+- [Sylabus ISTQB Certyfikowany Tester - Poziom Podstawowy 2018](https://sjsi.org/download/6351/)
 - [R. Smilgin, Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
 - [K. Zmitrowicz, Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania](https://ksiegarnia.pwn.pl/Tester-oprogramowania-Przygotowanie-do-egzaminu-z-testowania-oprogramowania,84913544,p.html)
 - [R. Pawlak, Testowanie oprogramowania. Podręcznik dla początkujących](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
+- [P. Wicherski, Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 - [B. Forta, SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie](https://helion.pl/ksiazki/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie-wydanie-iv-ben-forta,sqldko.htm#format/e)
 - [L. Rockoff, Język SQL. Przyjazny podręcznik.](https://helion.pl/ksiazki/jezyk-sql-przyjazny-podrecznik-wydanie-ii-larry-rockoff,jsqlp2.htm#format/d)
 
