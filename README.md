@@ -18,8 +18,8 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 ## Kursy i certyfikaty
 
 
-## Książki techniczne
-Przeczytane:
+## Literatura techniczna
+Przeczytana:
 - [R. Smilgin, Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
 - [K. Zmitrowicz, Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania](https://ksiegarnia.pwn.pl/Tester-oprogramowania-Przygotowanie-do-egzaminu-z-testowania-oprogramowania,84913544,p.html)
 - [R. Pawlak, Testowanie oprogramowania. Podręcznik dla początkujących](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
@@ -52,8 +52,8 @@ W trakcie:
 
 
 ## Moje projekty (w trakcie realizacji)
-- indywidualny projekt – testy aplikacji internetowej typu e-commerce (klik)
-	- plan testów
+- indywidualny projekt – testy aplikacji internetowej typu e-commerce [klik](https://emilieatelier.pl/)
+	- [plan testów](https://drive.google.com/file/d/1D2dOK0NxbzACiReyFhPo8or89Nt3uNDc/view?usp=sharing)
 	- kluczowe scenariusze testowe
 	- przypadki testowe
 	- raport defektów
