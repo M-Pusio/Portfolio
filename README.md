@@ -31,11 +31,11 @@ W trakcie:
 - K. Żmuda, SQL. Jak osiągnąć mistrzostwo w konstruowaniu zapytań
 
 ## Grupy testerskie na Facebooku
-- Testowanie oprogramowania
-- Tester oprogramowania – wsparcie na starcie
-- Cherry-IT: Zostań Testerem
-- Trójmiejska Grupa Testerska
-- Women in Technology Trójmiasto
+- [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+- [Tester oprogramowania – wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+- [Cherry-IT: Zostań Testerem](https://www.facebook.com/groups/2133784529983322)
+- [Trójmiejska Grupa Testerska](https://www.facebook.com/groups/1499629203641993)
+- [Women in Technology Trójmiasto](https://www.facebook.com/groups/WiTGdansk/)
 
 ## Polecane blogi i strony tematyczne
 
