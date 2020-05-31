@@ -17,7 +17,8 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 
 ## Kursy i certyfikaty
 - SDA: Tester Oprogramowania (112h)
- - testowanie
+	- testowanie
+- Akademia Kodu: Podstawy Pythona (8h) - [certyfikat](https://drive.google.com/file/d/1NSmnnsbDX3G1sLOgSSEKG4J4lFP8Xmo1/view?usp=sharing)
 
 ## Literatura techniczna
 Przeczytana:
