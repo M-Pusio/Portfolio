@@ -16,7 +16,8 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 - opracowywanie scenariuszy i przypadków testowych
 
 ## Kursy i certyfikaty
-
+- SDA: Tester Oprogramowania (112h)
+ - testowanie
 
 ## Literatura techniczna
 Przeczytana:
