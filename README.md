@@ -52,9 +52,9 @@ W trakcie:
 
 
 ## Moje projekty (w trakcie realizacji)
-- indywidualny projekt – testy aplikacji internetowej typu e-commerce [klik](https://emilieatelier.pl/)
-	- [plan testów](https://drive.google.com/file/d/1D2dOK0NxbzACiReyFhPo8or89Nt3uNDc/view?usp=sharing)
-	- kluczowe scenariusze testowe
-	- przypadki testowe
-	- raport defektów
+- Indywidualny projekt – testy aplikacji internetowej typu e-commerce [(klik)](https://emilieatelier.pl/)
+	- [Plan testów](https://drive.google.com/file/d/1D2dOK0NxbzACiReyFhPo8or89Nt3uNDc/view?usp=sharing)
+	- [Kluczowe scenariusze testowe](https://drive.google.com/file/d/1S-hLmH2ZBqQjyEMh4iC0DrT9zogLS1sA/view?usp=sharing)
+	- [Przypadki testowe - w trakcie realizacji](https://drive.google.com/file/d/10xgw5gRqbcJN76969D442fNVzyVjLurO/view?usp=sharing)
+	- Raport defektów
 
