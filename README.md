@@ -8,7 +8,7 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 - bazy danych (MS SQL Server, PL/SQL Developer 13)
 - systemy operacyjne (Windows)
 - poznane metodologie zarządzania (SCRUM)
-- narzędzia do zarządzania testowaniem (Jira z dodatkiem Confluence)
+- narzędzia do zarządzania testowaniem (Jira, Confluence, TestLink)
 - narzędzia wspomagające testowanie
 
 ## Umiejętności techniczne
@@ -58,7 +58,7 @@ W trakcie:
 ## Moje przypadki testowe
 - [Przypadki testowe - panel logowania i rejestracji serwisu OLX](https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
 
-## Moje raporty defektów
+## Moje raporty defektów (w trakcie realizacji)
 
 
 ## Moje projekty (w trakcie realizacji)
@@ -66,5 +66,5 @@ W trakcie:
 	- [Plan testów](https://drive.google.com/file/d/1D2dOK0NxbzACiReyFhPo8or89Nt3uNDc/view?usp=sharing)
 	- [Kluczowe scenariusze testowe](https://drive.google.com/file/d/1S-hLmH2ZBqQjyEMh4iC0DrT9zogLS1sA/view?usp=sharing)
 	- [Przypadki testowe - w trakcie realizacji](https://drive.google.com/file/d/10xgw5gRqbcJN76969D442fNVzyVjLurO/view?usp=sharing)
-	- Raport defektów
+	- Raport defektów - w trakcie realizacji
 
