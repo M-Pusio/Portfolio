@@ -55,7 +55,7 @@ W trakcie:
 - [Przypadki testowe - panel logowania i rejestracji serwisu OLX](https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
 
 ## Moje raporty defektów
-- [Zgłoszone defekty - aplikacja internetowa Millennium Bank] (https://drive.google.com/file/d/14UkdvUnKIGFL4Br__BCLnF8im7URlXif/view?usp=sharing)
+- [Zgłoszone defekty - aplikacja internetowa Millennium Bank](https://drive.google.com/file/d/14UkdvUnKIGFL4Br__BCLnF8im7URlXif/view?usp=sharing)
 
 ## Moje projekty (w trakcie realizacji)
 - Indywidualny projekt – testy aplikacji internetowej typu e-commerce [(klik)](https://emilieatelier.pl/)
