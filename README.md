@@ -8,7 +8,7 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 - bazy danych (MS SQL Server, PL/SQL Developer 13)
 - systemy operacyjne (Windows)
 - poznane metodologie zarządzania (SCRUM)
-- narzędzia do zarządzania testowaniem (Jira, Confluence, TestLink)
+- narzędzia do zarządzania testowaniem (Jira, Confluence, Trello, TestLink)
 - narzędzia wspomagające testowanie
 
 ## Umiejętności techniczne
