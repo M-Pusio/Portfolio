@@ -17,14 +17,10 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 
 ## Kursy i certyfikaty
 - SDA: Tester Oprogramowania (112h)
-	- cele i zasady testowania
-	- narzędzia testerskie (JIRA, TestLink, Chrome DevTools, Postman)
-	- testowanie w oparciu o ryzyko
-	- podstawy baz danych (MySQL, Microsoft SQL Server)
-	- podstawy programowania w języku Java (IntelliJ)
-	- podstawy BDD
-	- podstawy Selenium WebDriver
+	- zakres tematyczny: testowanie (ISTQB), podstawy baz danych, podstawy programowania w języku Java, podstawy BDD, SCRUM
+	- narzędzia: JIRA, TestLink, TestRail, Chrome DevTools, Postman, MySQL, Microsoft SQL Server, IntelliJ, Selenium WebDriver
 - Akademia Kodu: Podstawy Pythona (8h) - [certyfikat](https://drive.google.com/file/d/1NSmnnsbDX3G1sLOgSSEKG4J4lFP8Xmo1/view?usp=sharing)
+- Udemy: Wstęp do testowania oprogramowania (2h) - [certyfikat](https://drive.google.com/file/d/1yrRGwwBNMhn91Meh-LOacy0kak66uaME/view?usp=sharing)
 
 ## Literatura techniczna
 Przeczytana:
