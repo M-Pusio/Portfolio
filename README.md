@@ -14,6 +14,9 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 ## Umiejętności techniczne
 - raportowanie defektów
 - opracowywanie scenariuszy i przypadków testowych
+- umiejętność konstruowania zapytań SQL
+- dobra znajomość ISTQB Foundation Level
+- znajomość metodologii SCRUM
 
 ## Kursy i certyfikaty
 - SDA: Tester Oprogramowania (112h)
@@ -52,15 +55,15 @@ W trakcie:
 - [testerka.pl](http://testerka.pl/)
 
 ## Moje przypadki testowe
-- [Przypadki testowe - panel logowania i rejestracji serwisu OLX](https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
+- [Przypadki testowe - Panel logowania i rejestracji serwisu OLX](https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
 
 ## Moje raporty defektów
-- [Zgłoszone defekty - aplikacja internetowa Millennium Bank](https://drive.google.com/file/d/14UkdvUnKIGFL4Br__BCLnF8im7URlXif/view?usp=sharing)
+- [Zgłoszone defekty - Aplikacja internetowa Millennium Bank](https://drive.google.com/file/d/14UkdvUnKIGFL4Br__BCLnF8im7URlXif/view?usp=sharing)
 
 ## Moje projekty (w trakcie realizacji)
 - Indywidualny projekt – testy aplikacji internetowej typu e-commerce [(klik)](https://emilieatelier.pl/)
 	- [Plan testów](https://drive.google.com/file/d/1D2dOK0NxbzACiReyFhPo8or89Nt3uNDc/view?usp=sharing)
 	- [Kluczowe scenariusze testowe](https://drive.google.com/file/d/1S-hLmH2ZBqQjyEMh4iC0DrT9zogLS1sA/view?usp=sharing)
-	- [Przypadki testowe - w trakcie realizacji](https://drive.google.com/file/d/10xgw5gRqbcJN76969D442fNVzyVjLurO/view?usp=sharing)
+	- [Przypadki testowe](https://drive.google.com/file/d/10xgw5gRqbcJN76969D442fNVzyVjLurO/view?usp=sharing)
 	- Raport defektów - w trakcie realizacji
 
