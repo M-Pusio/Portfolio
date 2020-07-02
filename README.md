@@ -9,7 +9,7 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 - systemy operacyjne (Windows)
 - poznane metodologie zarządzania (SCRUM)
 - narzędzia do zarządzania testowaniem (Jira, Confluence, Trello, TestLink)
-- narzędzia wspomagające testowanie
+- narzędzia wspomagające testowanie (Selenium IDE)
 
 ## Umiejętności techniczne
 - raportowanie defektów
@@ -19,6 +19,7 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 - znajomość metodologii SCRUM
 
 ## Kursy i certyfikaty
+- ISTQB Certyfikowany Tester - Poziom Podstawowy - wersja 2018
 - SDA: Tester Oprogramowania (112h)
 	- zakres tematyczny: testowanie (ISTQB), podstawy baz danych, podstawy programowania w języku Java, podstawy BDD, SCRUM
 	- narzędzia: JIRA, TestLink, TestRail, Chrome DevTools, Postman, MySQL, Microsoft SQL Server, IntelliJ, Selenium WebDriver
@@ -52,7 +53,6 @@ W trakcie:
 - [testelka.pl](https://testelka.pl/)
 - [toniebug.pl](https://www.toniebug.pl/)
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-- [testerka.pl](http://testerka.pl/)
 
 ## Moje przypadki testowe
 - [Przypadki testowe - Panel logowania i rejestracji serwisu OLX](https://drive.google.com/file/d/1IglYK2rTOcVIdkklpK-7NeRi5nV2l8-A/view?usp=sharing)
