@@ -15,7 +15,7 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 - raportowanie defektów
 - opracowywanie scenariuszy i przypadków testowych
 - umiejętność konstruowania zapytań SQL
-- dobra znajomość ISTQB Foundation Level
+- dobra znajomość sylabusa ISTQB Foundation Level
 - znajomość metodologii SCRUM
 
 ## Kursy i certyfikaty
