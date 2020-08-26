@@ -19,7 +19,7 @@ Moim celem jest rozwijanie umiejętności technicznych i wiedzy z zakresu testow
 - znajomość metodologii SCRUM
 
 ## Kursy i certyfikaty
-- ISTQB Certyfikowany Tester - Poziom Podstawowy - wersja 2018
+- ISTQB Certyfikowany Tester - Poziom Podstawowy - wersja 2018 - [certyfikat](https://drive.google.com/file/d/1gG3P9hGdcr2HAyDLHguAzXRO__orVnc6/view?usp=sharing)
 - SDA: Tester Oprogramowania (112h)
 	- zakres tematyczny: testowanie (ISTQB), podstawy baz danych, podstawy programowania w języku Java, podstawy BDD, SCRUM
 	- narzędzia: JIRA, TestLink, TestRail, Chrome DevTools, Postman, MySQL, Microsoft SQL Server, IntelliJ, Selenium WebDriver
